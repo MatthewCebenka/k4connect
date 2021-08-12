@@ -9,3 +9,4 @@ To finish this app I would:
 I used react native expo with vanilla CSS and jest for testing.
 In order to run this repo you must have the Expo CLI installed. You can find that here: https://docs.expo.dev/workflow/expo-cli/
 Once the repo is cloned. Simply run "npm start" in the root directory. 
+To run the tests just run "npm run test" in the root directory.
